@@ -62,6 +62,7 @@
 
 ## Resource Links with Short Description
     1. Lesser Resources , Lesser Confusion.
+    
 |Resource |  Description|
 |:---:|:---:|
 |[Complete-Introduction](https://www.studytonight.com/operating-system/)|This Resource is complete Intro about DBMS except (Indexing,Hashing)|
