@@ -62,8 +62,7 @@
 
 ## Resource Links with Short Description
     1. Lesser Resources , Lesser Confusion.
-### [Complete-Introduction](https://www.studytonight.com/operating-system/)
-    1. This Resource is complete Intro about OS.
-### [Detailed Cheat Sheet](https://whimsical.com/operating-system-cheatsheet-by-love-babbar-S9tuWBCSQfzoBRF5EDNinQ)
-    1. If you have sufficient time you can go in depth study (Not PHD) of all topic given in the sheet.
-
+|Resource |  Description|
+|:---:|:---:|
+|[Complete-Introduction](https://www.studytonight.com/operating-system/)|This Resource is complete Intro about DBMS except (Indexing,Hashing)|
+|[Detailed Cheat Sheet](https://whimsical.com/operating-system-cheatsheet-by-love-babbar-S9tuWBCSQfzoBRF5EDNinQ)|If you have sufficient time you can go in depth study (Not PHD) of all topic given in the sheet|
