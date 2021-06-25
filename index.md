@@ -6,5 +6,6 @@ A Repository for Job/Internship application and preparation.
 3. [System Design](system_design.md)
 4. [Development Topics](development.md)
 5. [Handbook](https://techinterviewhandbook.org/)
+6. [Development Roadmap](https://roadmap.sh/frontend)
 
 [Repo-Link](https://github.com/maskmanlucifer/DP)
