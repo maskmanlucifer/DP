@@ -38,6 +38,7 @@
 
 ## Resource Links with Short Description
     1. Lesser Resources , Lesser Confusion.
+    
 |Resource |  Description|
 |:---:|:---:|
 |[Complete-Introduction](https://www.studytonight.com/cpp/cpp-and-oops-concepts.php)|This Resource is complete Intro about DBMS except (Indexing,Hashing)|
