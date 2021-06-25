@@ -11,26 +11,26 @@
       and a good quality daily feed.
           
 
-| Companies |
-|:----:|
-|Zeta |
-| Directi|
-|Urban Comany |
-|Uber |
-|Flipkart |
-| Hackerrank|
-| Paypal|
-|Dunzoit | 
-| DE Shaw| 
-|Codenation |
-|Global Logic | 
-|HBO Max|
-|Postman|
-|Sprinklr | 
-|Facebook | 
-|Amazon | 
-|Apple |
-|Netflix | 
-| Google|
-| Media.net|
+| C1 |C2 |C3 |C4 |C5 |
+|:----:|:----:|:----:|:----:|:----:|
+|Zeta |Flipkart |Hackerrank| Paypal|Dunzoit | 
+| Directi| DE Shaw|Codenation |Global Logic |HBO Max|
+|Urban Comany |Postman|Sprinklr |Facebook |Amazon | 
+|Uber |Apple |Netflix | Google| Media.net|
 |Salesforce|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
