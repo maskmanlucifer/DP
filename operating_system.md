@@ -61,4 +61,7 @@
 | Thrasing| 
 
 ## Resource Links with Short Description
+    1. Lesser Resources , Lesser Confusion.
+### [Complete-Introduction](https://www.studytonight.com/operating-system/)
+    1. This Resource is complete Intro about OS.
 
