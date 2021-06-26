@@ -17,7 +17,7 @@
 | Directi| DE Shaw|Codenation |Global Logic |HBO Max|
 |Urban Comany |Postman|Sprinklr |Facebook |Amazon | 
 |Uber |Apple |Netflix | Google| Media.net|
-|Salesforce|Walmart|
+|Salesforce|Walmart| Disney + Hotstar |
 
 
 
