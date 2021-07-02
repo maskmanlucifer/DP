@@ -7,5 +7,5 @@ A Repository for Job/Internship application and preparation.
 4. [Development Topics](development.md)
 5. [Handbook](https://techinterviewhandbook.org/)
 6. [Development Roadmap](https://roadmap.sh/frontend)
-
+7. [Sites for Openings](sites-for-jobs.md)
 [Repo-Link](https://github.com/maskmanlucifer/DP)
