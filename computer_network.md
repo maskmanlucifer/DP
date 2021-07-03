@@ -26,3 +26,4 @@
 |Resource |  Description|
 |:---:|:---:|
 |[Detailed Cheat Sheet](https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv)|Pick this sheet only if you have ample amount of time to spend on topics Otherwise above listed topics are sufficient enough for interviews|
+|[Link](https://codeforces.com/blog/entry/92472)| Good Resource to learn about Internet |
