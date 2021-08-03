@@ -13,7 +13,6 @@
 |  Shrading|
 |  API's|
 |  PUB-SUB Model (Message-queues)|
-|  Shrading|
 
 ## Resource Links with Short Description
     1. Lesser Resources , Lesser Confusion.
