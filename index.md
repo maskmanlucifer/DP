@@ -1,5 +1,5 @@
 # DP
-A Repository for Job/Internship application and preparation.
+List of topics and resources of various core subjects.
 
 1. [Core Subjects](core.md)
 2. [System Design](system_design.md)
