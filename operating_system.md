@@ -65,5 +65,5 @@
     
 |Resource |  Description|
 |:---:|:---:|
-|[Complete-Introduction](https://www.studytonight.com/operating-system/)|This Resource is complete Intro about DBMS except (Indexing,Hashing)|
+|[Complete-Introduction](https://www.studytonight.com/operating-system/)|This Resource is complete Intro about Operating-Systems |
 |[Detailed Cheat Sheet](https://whimsical.com/operating-system-cheatsheet-by-love-babbar-S9tuWBCSQfzoBRF5EDNinQ)|If you have sufficient time you can go in depth study (Not PHD) of all topic given in the sheet|
