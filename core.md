@@ -8,5 +8,5 @@
     
  4.  [Computer Networks](computer_network.md) -- I think Computer Network is most interasting core subject to learn.
  
- 5.  [CORE Interview Questions](https://docs.google.com/document/d/1sQlRDw6--HwyxeFL7b4kBsOG-Tz7rXMbpWNnfvJErA4/edit) -- Questions asked in interviews.
+ 5.  [CORE Interview Questions](https://docs.google.com/document/d/1sQlRDw6--HwyxeFL7b4kBsOG-Tz7rXMbpWNnfvJErA4/edit) -- Expected questions for interviews.
 
